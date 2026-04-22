@@ -1,4 +1,5 @@
-## Hello! I’m a database developer with a passion for solving complex data problems, designing intuitive full-stack data systems, and creating impactful visualizations. I help organizations operate more efficiently, save time and money, and make data-driven decisions with confidence, while also maintaining security of confidential information. 
+## 
+Hello! I’m a database developer with a passion for solving complex data problems, designing intuitive full-stack data systems, and creating impactful visualizations. I help organizations operate more efficiently, save time and money, and make data-driven decisions with confidence, while also maintaining security of confidential information. 
 
 
 
